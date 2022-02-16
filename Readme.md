@@ -6,6 +6,7 @@ Frameworks to be used:
 React js
 Bootsrap
 Angular js
-Vue.js etc
+Vue.js 
+Spring etc
 
 Thank you ALX for this program.... I salute you.
